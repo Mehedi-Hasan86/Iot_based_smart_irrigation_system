@@ -194,6 +194,8 @@ The Blynk dashboard provides real-time telemetry for soil moisture, temperature,
 | `Iot_based_Smart_irrigation_code.ino` | ESP32 Arduino firmware |
 | `Smart_Irrigation_ML_Notebook.ipynb` | ML model training and evaluation notebook |
 | `10_20_to_1_28_dataset_of_SMart_Irrigation_system.csv` | Sensor dataset (2,819 samples) |
+| `figures/` | Figures and diagrams used in the report |
+| `pic/` | Prototype and circuit photos |
 
 ---
 
